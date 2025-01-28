@@ -19,3 +19,4 @@ end
 text = ARGS[1]
 counts = word_count(text)
 print_word_count(counts)
+
