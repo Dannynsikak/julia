@@ -19,3 +19,12 @@ println(message)
 # interpolating expressions
 caalculation = "5 + 10 equals $(5 + 10)."
 println(caalculation)
+# comments in Julia
+# This is a single-line comment
+x = 10 # Assign the value 10 to x
+
+# for longer comments
+#=
+This is a multi-line comment.
+It can explain something in detail
+=#
